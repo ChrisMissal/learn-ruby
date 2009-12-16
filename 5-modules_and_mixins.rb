@@ -1,10 +1,10 @@
 # ================================
 # Modules
 #
-# modlules are much like a classes but
+# modules are much like a classes but
 # unlike classes it cannot be instantiated.
 # modules are stand-alone libraries of code
-# that are ideal for mixins and exteding
+# that are ideal for mixins and extending
 # existing objects.
 # ================================
 
